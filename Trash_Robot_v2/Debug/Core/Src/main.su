@@ -1,0 +1,10 @@
+main.c:84:6:mydelay	32	static
+main.c:93:6:robot_wave	8	static
+main.c:124:6:robot_march_thing	4	static
+main.c:127:6:robot_arms_opposite_directons	4	static
+main.c:131:6:TIM3_IRQHandler	4	static
+main.c:172:5:main	8	static,ignoring_inline_asm
+main.c:254:6:SystemClock_Config	96	static
+main.c:297:13:MX_TIM2_Init	64	static
+main.c:363:13:MX_GPIO_Init	16	static
+main.c:380:6:Error_Handler	4	static,ignoring_inline_asm

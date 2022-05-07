@@ -1,0 +1,5 @@
+LCD.c:14:6:LCD_command	16	static
+LCD.c:30:6:LCD_write_char	16	static
+LCD.c:43:6:LCD_clear	8	static
+LCD.c:47:6:LCD_newline	8	static
+LCD.c:52:6:LCD_init	8	static

@@ -1,0 +1,5 @@
+main.c:63:6:DAC_Init	4	static
+main.c:94:6:DAC_writ	24	static
+main.c:106:5:main	16	static
+main.c:138:6:SystemClock_Config	96	static
+main.c:184:6:Error_Handler	4	static,ignoring_inline_asm

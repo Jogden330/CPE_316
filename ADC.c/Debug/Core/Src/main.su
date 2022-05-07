@@ -1,0 +1,8 @@
+main.c:63:6:ADC_Init	16	static,ignoring_inline_asm
+main.c:118:6:ADC1_2_IRQHandler	4	static
+main.c:140:10:get_max_value	24	static
+main.c:157:10:get_min_value	24	static
+main.c:174:10:get_ave_value	24	static
+main.c:189:5:main	16	static
+main.c:247:6:SystemClock_Config	96	static
+main.c:293:6:Error_Handler	4	static,ignoring_inline_asm
